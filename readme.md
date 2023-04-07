@@ -1,6 +1,15 @@
 ## Verification System
 Sistem ini dibuat sebagai alat bantu untuk verifikasi keaslian sertifikat.
 
+### Referensi
+- https://codylab.blogspot.com/2023/01/online-school-result-using-google-sheet.html
+
+### Langkah
+- Membuat spreadsheet
+- Membuat AppScript (index.html , kode.gs , js.html)
+- Membuat Github Hosting (index.html)
+- Total ada 4 source code
+
 ## Persiapan
 - Spreadsheet
 - AppScript
