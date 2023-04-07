@@ -73,11 +73,21 @@ var m6 = sheet.getRange(i, 10).getValue();
 var cekdong = '<p>Saudara/i <strong>'+b1+'</strong> '+b2+' dengan nomor <strong>'+v.roll+'</strong> dalam roll '+b3+' sebagai '+m2;
 return cekdong;
 
-  return data;
+  return cekdong;
     }
    }
      if(flag==1){
-  var data ="Tidak Terdaftar";
-      return data;
+  var cekdong ="Tidak Terdaftar";
+      return cekdong;
     } 
     };
+
+
+  // return data;
+  //   }
+  //  }
+  //    if(flag==1){
+  // var data ="Tidak Terdaftar";
+  //     return data;
+  //   } 
+  //   };
